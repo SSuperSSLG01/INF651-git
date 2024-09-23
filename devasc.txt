@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+el primer archivo para el palabra
+=======
+el primer archivo para el texto
+>>>>>>> rama2
+este es la segunda linea que se escribe en el archivo
+esta linea se agrego dentro de la rama1
